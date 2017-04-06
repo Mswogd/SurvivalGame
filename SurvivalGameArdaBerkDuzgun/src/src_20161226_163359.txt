@@ -1,0 +1,3 @@
+WARNING - 16:33:59: First conversion pass
+ERROR - 16:33:59: org.xml.sax.SAXParseExceptionpublicId: /Projev5/src/Armor.java; systemId: file:///Projev5/src/Armor.java; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+ERROR - 16:33:59: org.xml.sax.SAXParseExceptionpublicId: /Projev5/src/Armor.java; systemId: file:///Projev5/src/Armor.java; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.

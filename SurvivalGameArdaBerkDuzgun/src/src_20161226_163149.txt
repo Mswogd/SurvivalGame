@@ -1,0 +1,28 @@
+WARNING - 16:31:49: First conversion pass
+ERROR - 16:31:49: org.xml.sax.SAXParseExceptionpublicId: /Projev5/src/Armor.java; systemId: file:///Projev5/src/Armor.java; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+ERROR - 16:31:49: org.xml.sax.SAXParseExceptionpublicId: /Projev5/src/Armor.java; systemId: file:///Projev5/src/Armor.java; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+WARNING - 16:31:55: First conversion pass
+ERROR - 16:31:55: org.xml.sax.SAXParseExceptionpublicId: /Projev5/src/Armor.java; systemId: file:///Projev5/src/Armor.java; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+ERROR - 16:31:55: org.xml.sax.SAXParseExceptionpublicId: /Projev5/src/Armor.java; systemId: file:///Projev5/src/Armor.java; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+WARNING - 16:32:11: First conversion pass
+ERROR - 16:32:11: org.eclipse.emf.ecore.xmi.PackageNotFoundException: Package with uri 'null' not found. (file:///Projev5/.classpath, 2, 12)
+ERROR - 16:32:11: org.eclipse.emf.ecore.xmi.PackageNotFoundException: Package with uri 'null' not found. (file:///Projev5/.classpath, 2, 12)
+WARNING - 16:32:22: First conversion pass
+ERROR - 16:32:22: org.eclipse.emf.ecore.xmi.PackageNotFoundException: Package with uri 'null' not found. (file:///Projev5/.classpath, 2, 12)
+ERROR - 16:32:22: org.eclipse.emf.ecore.xmi.PackageNotFoundException: Package with uri 'null' not found. (file:///Projev5/.classpath, 2, 12)
+WARNING - 16:32:39: First conversion pass
+ERROR - 16:32:39: org.xml.sax.SAXParseExceptionpublicId: /Projev5/src/Armor.java; systemId: file:///Projev5/src/Armor.java; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+ERROR - 16:32:39: org.xml.sax.SAXParseExceptionpublicId: /Projev5/src/Armor.java; systemId: file:///Projev5/src/Armor.java; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+WARNING - 16:33:11: First conversion pass
+ERROR - 16:33:11: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 16:33:20: First conversion pass
+ERROR - 16:33:21: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 2 of 2-byte UTF-8 sequence.
+ERROR - 16:33:21: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 2 of 2-byte UTF-8 sequence.
+WARNING - 16:33:39: Convert 
+WARNING - 16:33:39: First conversion pass
+ERROR - 16:33:39: org.eclipse.emf.ecore.xmi.PackageNotFoundException: Package with uri 'null' not found. (file:///Projev5/.classpath, 2, 12)
+ERROR - 16:33:39: org.eclipse.emf.ecore.xmi.PackageNotFoundException: Package with uri 'null' not found. (file:///Projev5/.classpath, 2, 12)
+WARNING - 16:33:59: Convert 
+WARNING - 16:33:59: First conversion pass
+ERROR - 16:33:59: org.xml.sax.SAXParseExceptionpublicId: /Projev5/src/Armor.java; systemId: file:///Projev5/src/Armor.java; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+ERROR - 16:33:59: org.xml.sax.SAXParseExceptionpublicId: /Projev5/src/Armor.java; systemId: file:///Projev5/src/Armor.java; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
